@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="512" height="512">
+  <!-- FeedDiet mark: an empty plate — calm, focus, "the feed is off the menu". 2 colors, no text. -->
+  <circle cx="64" cy="64" r="60" fill="#5a7d5a"/>
+  <circle cx="64" cy="64" r="46" fill="#f7f5ef"/>
+  <circle cx="64" cy="64" r="34" fill="none" stroke="#5a7d5a" stroke-width="3" opacity="0.45"/>
+</svg>
